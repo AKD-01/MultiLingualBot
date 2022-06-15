@@ -4,9 +4,6 @@ Basic idea behind this bot is to illustrate multilingual behaviour with a bot, f
 
 As it's a proof of concept, the response side is purely to indicate the language and classification, it does not generate full responses.
 
-There is a quick demo of it in action here on YouTube: https://youtu.be/xSN5fY5uYYg
-
-[![MLB YouTube Demo](media/MLB.png)](https://youtu.be/xSN5fY5uYYg)
 
 # Installation
 
